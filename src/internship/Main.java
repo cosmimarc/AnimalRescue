@@ -8,43 +8,43 @@ public class Main {
     public static void main(String[] args){
 
         Animal cat = new Animal();
-        cat.type = "Cat";
-        cat.breed = "Maine Coon";
-        cat.age = 2;
-        cat.name = "Luna";
-        cat.favoriteFood = "Fish";
+        cat.setType("Cat");
+        cat.setBreed("Maine Coon");
+        cat.setAge(2);
+        cat.setName("Luna");
+        cat.setFavoriteFood("Fish");
 
         Adopter adopter = new Adopter ();
-        adopter.name = "John";
-        adopter.money = 350.50;
+        adopter.setName("John");
+        adopter.setMoney(350.50);
 
         RecreationActivity activity = new RecreationActivity();
-        activity.name = "Walk";
+        activity.setName("Walk");
 
         Food food = new Food();
-        food.name = "Solid food";
+        food.setName("Solid food");
         LocalDate date = LocalDate.of(2023,10,21);
-        food.expirationDate = date;
+        food.setExpirationDate(date);
 
         Veterinarian veterinarian = new Veterinarian();
-        veterinarian.name = "Martha";
-        veterinarian.specialization = "Pets";
+        veterinarian.setName("Martha");
+        veterinarian.setSpecialization("Pets");
 
         Game game = new Game();
-        game.adopter = adopter;
+        game.setAdopter(adopter);
         Animal animal = new Animal();
-        game.dog = animal;
-        game.veterinarian = veterinarian;
+        game.setDog(animal);
+        game.setVeterinarian(veterinarian);
 
 
-        System.out.println("The animal details are: type " + cat.type  + " breed " + cat.breed
-                         + " age " + cat.age + " name " + cat.name + " food " + cat.favoriteFood);
+        System.out.println("The animal details are: type " + cat.getType() + " breed " + cat.getBreed()
+                + " age " + cat.getAge() + " name " + cat.getName() + " food " + cat.getFavoriteFood());
 
-        System.out.println("Adopter details are: name: " + adopter.name + " and money: " + adopter.money);
+        System.out.println("Adopter details are: name: " + adopter.getName() + " and money: " + adopter.getMoney());
 
-        System.out.println("Recreation activity details are: name = " + activity.name);
+        System.out.println("Recreation activity details are: name = " + activity.getName());
 
-        System.out.println("Food details are: name = " + food.name + " expiration date:  " +  food.expirationDate);
+        System.out.println("Food details are: name = " + food.getName() + " expiration date:  " +  food.getExpirationDate());
 
 
 

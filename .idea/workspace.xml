@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89bbc8e9-b77b-4d2b-ae9f-d7a6f18a3462" name="Changes" comment="Objects setup">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AnimalRescue1/internship/Adopter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AnimalRescue1/internship/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AnimalRescue1/internship/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AnimalRescue1/internship/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AnimalRescue1/internship/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AnimalRescue1/internship/RecreationActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AnimalRescue1/internship/Veterinarian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/internship/Adopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/internship/Adopter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/internship/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/internship/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/internship/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/internship/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/internship/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/internship/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/internship/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/internship/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/internship/RecreationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/internship/RecreationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/internship/Veterinarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/internship/Veterinarian.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ClGLdC7Iptf77p0mlQ2Q5Zjkoa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="internship.Main" />
+      <module name="AnimalRescue1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89bbc8e9-b77b-4d2b-ae9f-d7a6f18a3462" name="Changes" comment="" />
+      <created>1659369702972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659369702972</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Objects setup">
+      <created>1659370189978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659370189978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Objects setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Objects setup" />
+  </component>
+</project>
